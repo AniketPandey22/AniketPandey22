@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aniket Pandey</h1>
+<h2 align="center">Hi 👋, I'm Aniket Pandey</h2>
 <h3 align="center">I'm an aspiring Software Engineer from India.</h3>
 
 # 💫 About Me:
