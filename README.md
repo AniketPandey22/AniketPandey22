@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my skills.<br>👯 I’m looking to collaborate on Open Source.<br>🌱 I’m currently learning to build flexible applications.<br>💬 Ask me about C++, MERN. 
+🔭 I’m currently working on my skills.<br>👯 I’m looking to collaborate on Open Source.<br>🌱 I’m currently learning to build flexible applications.<br>💬 Ask me about C++, MERN.<br>📫 How to reach me: anipandey2002@gmail.com
 
 
 ## 🌐 Socials:
