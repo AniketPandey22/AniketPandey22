@@ -1,6 +1,4 @@
-# <h1 align="center">Hi 👋, I'm Aniket Pandey</h1>
-
-<h2 align="center">I'm an aspiring Software Engineer from India.</h2>
+# <h1 align="center">Hi 👋, I'm Aniket Pandey<br> I'm an aspiring Software Engineer from India.</h1>
 
 # 💫 About Me:
 🔭 I’m currently working on my skills.<br>👯 I’m looking to collaborate on Open Source.<br>🌱 I’m currently learning to build flexible applications.<br>💬 Ask me about C++, MERN.<br>📫 How to reach me: anipandey2002@gmail.com
